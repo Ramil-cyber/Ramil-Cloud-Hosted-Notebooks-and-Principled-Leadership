@@ -1,5 +1,6 @@
 [![CI/CD](https://github.com/Ramil-cyber/Ramil-Cloud-Hosted-Notebook-Data-Manipulation/actions/workflows/main.yaml/badge.svg)](https://github.com/Ramil-cyber/Ramil-Cloud-Hosted-Notebook-Data-Manipulation/actions/workflows/main.yaml)
 
+![Logo](https://github.com/Ramil-cyber/Ramil-Cloud-Hosted-Notebook-Data-Manipulation/blob/1c43cae07aeb9e0065cbaf6ca38faab148ab2471/data/world%20bank.png)
 
 # Project title: Cloud-Hosted Notebook: Data Manipulation with World Bank Dataset
 
@@ -56,6 +57,7 @@ Testing based on the tag named test_cell. In order to test other cell add tag 't
 ```bash
 make test_file
 ```
+![Testing](https://github.com/Ramil-cyber/Ramil-Cloud-Hosted-Notebook-Data-Manipulation/blob/1c43cae07aeb9e0065cbaf6ca38faab148ab2471/data/test%20passed.png)
 
 Linting
 ```bash
