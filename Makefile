@@ -3,8 +3,6 @@ install:
 
 format:
 	black src/*.py
-	black test/*.py
-
 test_file:
 	pytest -vv --nbval -cov=my_lib -cov=main  *.ipynb
 
